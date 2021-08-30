@@ -12,7 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 open http://localhost:3000
 
+## Important for currency API
 
+I am using free API with limited requests, if you run over the limit use this one [ api_key=6d86f74ced6c4eb2b8dbbb624b9f4b71 ]
 
 
 ## Available Scripts
